@@ -38,16 +38,6 @@
                ReferencedContainer = "container:EverCraft.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "416A0B481C3D52B00059F3E5"
-               BuildableName = "EverCraftUITests.xctest"
-               BlueprintName = "EverCraftUITests"
-               ReferencedContainer = "container:EverCraft.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
